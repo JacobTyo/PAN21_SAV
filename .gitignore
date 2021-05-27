@@ -1,3 +1,14 @@
+# jake ignores
+.idea/
+data/
+models/
+output/
+saved_runs/
+src/AuthorshipAttribution/cache_dir/
+src/AuthorshipAttribution/mlruns/
+src/AuthorshipAttribution/runs/
+src/AuthorshipAttribution/glove.6B.300d.txt.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
